@@ -1,0 +1,47 @@
+commit 4e57a483fd6cceb11785b265c2772c166fbd0ad8 (HEAD -> master)
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Tue Mar 5 20:30:52 2024 +0530
+
+    Added terraform plan
+
+commit 4fc99be47ed6f32047730db9bebffe0a5e9ea050 (origin/master)
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:41:43 2024 +0530
+
+    Added some data
+
+commit 424d0c1efe94a8058bd34003c343e740f6435c99
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:40:28 2024 +0530
+
+    Deleted the error files
+
+commit 65c2d0bb44bde0b7d0df36bcad92d970682b43b0
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:39:17 2024 +0530
+
+    Added a log file
+
+commit 671ae91399f8ec8d87ab0e14d1487bc930bfcdd7
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:34:53 2024 +0530
+
+    Deleted a log file
+
+commit a635b1706a9cc792199f65249df032d17cc571a0
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:33:13 2024 +0530
+
+    Added a log
+
+commit 4807abdde0008d4ecb55a06c697f68d3645dad3c
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 20:13:04 2024 +0530
+
+    Beautified
+
+commit 7ff8a76970ea3827db9d8a3a521bb8e72d89092d
+Author: Ankit <ankitnandi123@outlook.com>
+Date:   Thu Jan 18 19:57:53 2024 +0530
+
+    Initial Commit
